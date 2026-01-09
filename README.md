@@ -34,9 +34,6 @@ People who live life in all fields
 
 #### Play games with me
 
-<img src="https://raw.githubusercontent.com/rizqi-works/rizqi-works/output/snake.svg" alt="Snake animation" />
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizqi-works/rizqi-works/output/pacman-contribution-graph-dark.svg">
