@@ -32,13 +32,21 @@ People who live life in all fields
 ![](https://nirzak-streak-stats.vercel.app/?user=rizqi-works&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizqi-works&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- #### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rizqi-works&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h4 align="left">Play games with me</h4>
 
-#### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rizqi-works&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+###
+
+<img src="https://raw.githubusercontent.com/rizqi-works/rizqi-works/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizqi-works/rizqi-works/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizqi-works/rizqi-works/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rizqi-works/rizqi-works/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rizqi-works&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
